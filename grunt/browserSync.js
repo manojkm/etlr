@@ -15,7 +15,7 @@ module.exports = {
            
            port: '<%= site.dev_port %>',
             server: {
-                baseDir: "<%= site.dev %>"
+                baseDir: "<%= site.env_root %>"
             }
 
             
