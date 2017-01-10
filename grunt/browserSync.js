@@ -3,10 +3,10 @@ module.exports = {
 
         bsFiles: {
             src: [
-                '<%= site.dev_assets %>/**',
-                '<%= site.dev %>/vendor/**',
-                '<%= site.dev %>/*.php',
-                '<%= site.dev %>/*.html'
+                
+                '<%= site.env %>/css/*.css',
+                '<%= site.env %>/assets/**',
+                '<%= site.env %>/*.php'
             ]
         },
 
