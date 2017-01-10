@@ -4,6 +4,3 @@ app/deploy/*
 app/development/*
 app/source/vendor/*
 npm-debug.log
-cred.txt
-
-
