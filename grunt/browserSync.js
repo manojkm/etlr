@@ -14,7 +14,8 @@ module.exports = {
           debugInfo: true,
           logConnections: true,
           notify: true,
-          proxy: "http://localhost/<foldername>/app/environment/",
+          port:'<%= site.dev_port %>',
+          proxy: "http://localhost/mysite/app/environment/",
           ghostMode: {
             scroll: true,
             links: true,

@@ -1,6 +1,7 @@
 node_modules
 .sass-cache
 app/deploy/*
-app/development/bootville-lite/assets/*
+app/development/theme_name/assets/*
+app/development/theme_name/vendor/*
 app/source/vendor/*
 npm-debug.log
