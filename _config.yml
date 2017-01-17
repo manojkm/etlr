@@ -2,16 +2,19 @@
 # Build config
 # =============================================
 
+proj_dir:         sample_dir
+theme_name:       sample_theme
+
 deploy:           app/deploy
 deploy_assets:    <%= site.deploy %>/assets
 deploy_img:       <%= site.deploy %>/assets/img
 
-dev:              app/development/theme_name
+dev:              app/development/<%= site.theme_name %>
 dev_assets:       <%= site.dev %>/assets
 dev_img:          <%= site.dev %>/assets/img
 dev_port:         8080
 
-env:              app/environment/wp-content/themes/theme_name
+env:              app/environment/wp-content/themes/<%= site.theme_name %>
 env_assets:       <%= site.env %>/assets
 env_root:         app/environment/
 

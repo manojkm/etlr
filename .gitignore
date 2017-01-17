@@ -1,7 +1,7 @@
 node_modules
 .sass-cache
 app/deploy/*
-app/development/theme_name/assets/*
-app/development/theme_name/vendor/*
+app/development/sample_theme/assets/*
+app/development/sample_theme/vendor/*
 app/source/vendor/*
 npm-debug.log
