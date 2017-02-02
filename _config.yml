@@ -2,8 +2,8 @@
 # Build config
 # =============================================
 
-proj_dir:         sample_dir
-theme_name:       sample_theme
+proj_dir:         etlr
+theme_name:       verbo
 
 deploy:           app/deploy
 deploy_assets:    <%= site.deploy %>/assets
