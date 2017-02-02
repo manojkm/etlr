@@ -1,9 +1,9 @@
 {
-  "name": "Mysite",
-  "title": "Mysite : Website",
+  "name": "etaler",
+  "title": "etaler : etaler magazine",
   "version": "1.0.0",
   "copyright": "2016",
-  "description": "Setting up a website for Mysite",
+  "description": "Setting up a website for etaler magazine",
   "main": "index.html",
   "scripts": {
     "test": "testing"
