@@ -64,7 +64,7 @@
 
 
     /* FOOTER */
-    $deff[ 'mythemes-footer-text' ]             = 'Copyright &copy; ' . date( 'Y' ) . '. etaler magazine';
+    $deff[ 'mythemes-footer-text' ]             = 'Copyright &copy; ' . date( 'Y' ) . '. étaler magazine';
 	
     
 ?>
