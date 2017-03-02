@@ -5,3 +5,4 @@ app/development/sample_theme/assets/*
 app/development/sample_theme/vendor/*
 app/source/vendor/*
 npm-debug.log
+env
