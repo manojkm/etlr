@@ -20,13 +20,13 @@
                     <aside>
                         <div class="container">
                             <div class="row">
-                                <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 footer-sidebar-1">
+                                <div class="col-xs-6 col-sm-4 col-md-4 col-lg-4 footer-sidebar-1">
                                     <?php echo $first; ?>
                                 </div>
-                                <div class="col-xs-6 col-sm-3 col-md-3 col-lg-3 footer-sidebar-2">
+                                <div class="col-xs-6 col-sm-4 col-md-4 col-lg-4 footer-sidebar-2">
                                     <?php echo $second; ?>
                                 </div>
-                                <div class="col-xs-6 col-sm-3 col-md-3 col-lg-3 footer-sidebar-3">
+                                <div class="col-xs-6 col-sm-4 col-md-4 col-lg-4 footer-sidebar-3">
                                     <?php echo $third; ?>
                                 </div>
                             </div>

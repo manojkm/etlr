@@ -2,3 +2,21 @@ footer aside div.widget.website-description h1, footer aside div.widget.website-
  
     text-transform: none;
 }
+
+body.home footer aside { display: none;}
+
+.footer-sidebar-3 {text-align: center;}
+.footer-sidebar-3 a { display: block;}
+
+footer aside div.widget h5,
+ footer aside div.widget_text h5 {
+    
+    font-size: 17px;
+  
+}
+
+footer aside div.widget.website-description h1 a, footer aside div.widget.website-description h2 a {
+    color: #555;
+    font-size: 17px;
+    text-transform: uppercase;
+}
