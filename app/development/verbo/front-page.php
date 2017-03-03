@@ -39,11 +39,11 @@
                             <?php echo $third; ?>
                         </div>
                     </aside>
-                    <div class="row mythemes-delimiter after-header-widgets">
+                   <!--  <div class="row mythemes-delimiter after-header-widgets">
                         <div class="col-lg-12">
                             <div class="delimiter-item"></div>
                         </div>
-                    </div>
+                    </div>-->
 
             <?php
                 }
